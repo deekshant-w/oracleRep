@@ -10,7 +10,11 @@ body {
 }
 
 .nav-link{
-    margin: 0px 1vw;
+    margin: 0px 1.2vw;
+}
+
+.nav-link:hover{
+    font-weight: bold;
 }
 
 #headerName{
