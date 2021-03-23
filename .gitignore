@@ -1,4 +1,5 @@
 # Custom Exclusions
+.vscode/
 
 ### Django ###
 *.log
