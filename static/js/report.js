@@ -1,0 +1,3 @@
+function downloadReport(){
+    window.print();
+}

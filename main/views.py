@@ -15,3 +15,6 @@ def landing(request):
             print(i)
         return JsonResponse({'status':"ok", "next":"/"})
     return render(request,"landing.html")
+
+def report(request):
+    return render(request, 'report.html')

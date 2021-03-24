@@ -4,4 +4,5 @@ from main.views import *
 
 urlpatterns = [
     path('', landing),
+    path('report', report),
 ]
